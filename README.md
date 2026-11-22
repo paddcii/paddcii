@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fadlah Afrizal</h1>
+<h1 align="center">Hi 👋, I'm Fadlah</h1>
 <h3 align="center">Informatics Engineering student interested in IT Support, Technical Support, and Web Development.</h3>
 
 - 🔭 I’m currently working on **IT Support & Web Development Projects**
